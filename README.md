@@ -29,5 +29,5 @@ A simple command-line password manager built with Python. It allows you to secur
    pip install -r requirements.txt
 
 4. **Usage**
-```bash
-main.py
+   ```bash
+   main.py

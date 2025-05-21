@@ -19,12 +19,15 @@ A simple command-line password manager built with Python. It allows you to secur
    cd PasswordManager
 
 
-Create a virtual environment (optional but recommended)
-python -m venv .venv
-source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+2. **Create a virtual environment (optional but recommended) **
+   ```bash
+   python -m venv .venv
+   source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 
-Install dependencies
-pip install -r requirements.txt
+3. **Install dependencies**
+   ```bash
+   pip install -r requirements.txt
 
-Usage
+4. **Usage**
+```bash
 main.py
